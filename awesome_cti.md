@@ -14,6 +14,7 @@ A living collection of books, blogs, courses, labs, and open‑source tools that
 6. [Open‑Source CTI & Hunting Tools](#open-source-cti--hunting-tools)
 7. [Live Data Feeds & OSINT Sources](#live-data-feeds--osint-sources)
 8. [Community & Discussion Spaces](#community--discussion-spaces)
+9. .[DEFCON33 DEMO](#DECON DEMO)
 
 ---
 
@@ -127,14 +128,14 @@ A living collection of books, blogs, courses, labs, and open‑source tools that
 * **CTI League (Defender‑only vetted)** – <https://www.cti-league.com/>
 
 ---
-DEMO 
+## DEFCON33 DEMO 
 
-http://youtube.com/watch?v=VwTFodAY_aE&ab_channel=InnatBayHarbor
+* **http://youtube.com/watch?v=VwTFodAY_aE&ab_channel=InnatBayHarbor
 
-Other similar projects TTP mapping using LLMs
+* Other similar projects TTP mapping using LLMs
 
-https://github.com/LiuYuancheng/Threats_2_MITRE_AI_Mapper?tab=readme-ov-file
-https://github.com/center-for-threat-informed-defense/tram
-https://ctid.mitre.org/events/apac-2025/07%20-%20SigmaGen.pdf#:~:text=3.%20AI,threats%20to%20MITRE%20ATT%26CK%20techniques
+* **https://github.com/LiuYuancheng/Threats_2_MITRE_AI_Mapper?tab=readme-ov-file
+* **https://github.com/center-for-threat-informed-defense/tram
+* **https://ctid.mitre.org/events/apac-2025/07%20-%20SigmaGen.pdf#:~:text=3.%20AI,threats%20to%20MITRE%20ATT%26CK%20techniques
 
 
