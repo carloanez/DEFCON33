@@ -129,6 +129,7 @@ A living collection of books, blogs, courses, labs, and open‑source tools that
 * **CTI League (Defender‑only vetted)** – <https://www.cti-league.com/>
 
 ---
+
 ## DEFCON33 DEMO 
 
 * http://youtube.com/watch?v=VwTFodAY_aE&ab_channel=InnatBayHarbor
@@ -139,7 +140,7 @@ A living collection of books, blogs, courses, labs, and open‑source tools that
 * https://github.com/center-for-threat-informed-defense/tram
 * https://ctid.mitre.org/events/apac-2025/07%20-%20SigmaGen.pdf#:~:text=3.%20AI,threats%20to%20MITRE%20ATT%26CK%20techniques
 
---
+---
 
 ## LITTLE ALEX COMIC
 
