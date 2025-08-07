@@ -14,8 +14,8 @@ A living collection of books, blogs, courses, labs, and open‑source tools that
 6. [Open‑Source CTI & Hunting Tools](#open-source-cti--hunting-tools)
 7. [Live Data Feeds & OSINT Sources](#live-data-feeds--osint-sources)
 8. [Community & Discussion Spaces](#community--discussion-spaces)
-9. [DEFCON33 DEMO](#DEFCON DEMO)
-10. [LitlleAlexComic.com]
+9. [DEFCON_DEMO](#DEFCON--DEMO)
+10. [LittleAlexComic](#www.LitlleAlexComic.com)
 
 ---
 
