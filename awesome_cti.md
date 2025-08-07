@@ -127,8 +127,8 @@ A living collection of books, blogs, courses, labs, and open‑source tools that
 * **CTI League (Defender‑only vetted)** – <https://www.cti-league.com/>
 
 ---
+DEMO 
 
-> 🦆 **Pro‑Tip:** encode tiny slugs (e.g.
-> `ducks.io/quackstart`) into your DEF CON rubber
-> duckies to share this page IRL!
+http://youtube.com/watch?v=VwTFodAY_aE&ab_channel=InnatBayHarbor
+
 
