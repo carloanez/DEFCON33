@@ -15,7 +15,7 @@ A living collection of books, blogs, courses, labs, and open‑source tools that
 7. [Live Data Feeds & OSINT Sources](#live-data-feeds--osint-sources)
 8. [Community & Discussion Spaces](#community--discussion-spaces)
 9. [DEFCON_DEMO](#DEFCON--DEMO)
-10. [LittleAlexComic](#www.LitlleAlexComic.com)
+10. [LITTLE_ALEX_COMIC](#www.LitlleAlexComic.com)
 
 ---
 
