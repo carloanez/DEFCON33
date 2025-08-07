@@ -134,14 +134,13 @@ A living collection of books, blogs, courses, labs, and open‑source tools that
 * http://youtube.com/watch?v=VwTFodAY_aE&ab_channel=InnatBayHarbor
 
 * Other similar projects TTP mapping using LLMs
---
-
-## LITTLE ALEX COMIC
-
-* https://www.littlealexcomic.com
 
 * https://github.com/LiuYuancheng/Threats_2_MITRE_AI_Mapper?tab=readme-ov-file
 * https://github.com/center-for-threat-informed-defense/tram
 * https://ctid.mitre.org/events/apac-2025/07%20-%20SigmaGen.pdf#:~:text=3.%20AI,threats%20to%20MITRE%20ATT%26CK%20techniques
 
+--
 
+## LITTLE ALEX COMIC
+
+* https://www.littlealexcomic.com
