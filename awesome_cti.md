@@ -15,6 +15,7 @@ A living collection of books, blogs, courses, labs, and open‑source tools that
 7. [Live Data Feeds & OSINT Sources](#live-data-feeds--osint-sources)
 8. [Community & Discussion Spaces](#community--discussion-spaces)
 9. [DEFCON33 DEMO](#DEFCON DEMO)
+10. [LitlleAlexComic.com]
 
 ---
 
@@ -133,6 +134,11 @@ A living collection of books, blogs, courses, labs, and open‑source tools that
 * http://youtube.com/watch?v=VwTFodAY_aE&ab_channel=InnatBayHarbor
 
 * Other similar projects TTP mapping using LLMs
+--
+
+## LITTLE ALEX COMIC
+
+* https://www.littlealexcomic.com
 
 * https://github.com/LiuYuancheng/Threats_2_MITRE_AI_Mapper?tab=readme-ov-file
 * https://github.com/center-for-threat-informed-defense/tram
